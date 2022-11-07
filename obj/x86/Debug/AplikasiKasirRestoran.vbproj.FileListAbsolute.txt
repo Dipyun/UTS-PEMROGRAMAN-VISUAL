@@ -1,0 +1,9 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\bin\Debug\AplikasiPemesananMenuRestoran.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\bin\Debug\AplikasiPemesananMenuRestoran.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\bin\Debug\AplikasiPemesananMenuRestoran.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiKasirRestoran.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiKasirRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\bin\Debug\AplikasiPemesananMenuRestoran.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\bin\Debug\AplikasiPemesananMenuRestoran.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\bin\Debug\AplikasiPemesananMenuRestoran.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPemesananMenuRestoran\AplikasiPemesananMenuRestoran\obj\x86\Debug\AplikasiPemesananMenuRestoran.vbproj.GenerateResource.Cache
